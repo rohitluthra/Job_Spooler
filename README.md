@@ -1,7 +1,4 @@
-# Homework 4 Job Spooler - CSE 320 - Fall 2019
-#### Professor Eugene Stark
-
-### **Due Date: Friday 11/15/2018 @ 11:59pm**
+# Job Spooler 
 
 ## Introduction
 
